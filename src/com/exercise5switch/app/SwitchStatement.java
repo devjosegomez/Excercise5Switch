@@ -1,4 +1,4 @@
-package com.excercise5switch.app;
+package com.exercise5switch.app;
 
 public class SwitchStatement {
 
